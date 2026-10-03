@@ -527,10 +527,10 @@ function createAnimeCard(anime) {
     card.innerHTML = `
         <div class="aspect-[2/3] bg-gray-100 relative">
             <img 
-                src="${anime.image_url || 'https://via.placeholder.com/300x450?text=No+Image'}" 
+                src="${anime.image_url || 'https://placeholder.photo/300x450?text=No+Image'}" 
                 alt="${anime.title}"
                 class="w-full h-full object-cover"
-                onerror="this.src='https://via.placeholder.com/300x450?text=No+Image'">
+                onerror="this.src='https://placeholder.photo/300x450?text=No+Image'">
             ${anime.episodes ?
             `<div class="absolute top-2 right-2 bg-black/75 text-white px-2 py-1 rounded text-xs font-medium">
                     ${anime.episodes} eps
