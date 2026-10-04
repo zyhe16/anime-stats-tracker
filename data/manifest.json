@@ -398,40 +398,5 @@
     "year": 2025,
     "season": "fall",
     "count": 68
-  },
-  {
-    "year": 2026,
-    "season": "winter",
-    "count": 22
-  },
-  {
-    "year": 2026,
-    "season": "spring",
-    "count": 67
-  },
-  {
-    "year": 2026,
-    "season": "summer",
-    "count": 69
-  },
-  {
-    "year": 2026,
-    "season": "fall",
-    "count": 17
-  },
-  {
-    "year": 2027,
-    "season": "winter",
-    "count": 24
-  },
-  {
-    "year": 2027,
-    "season": "spring",
-    "count": 5
-  },
-  {
-    "year": 2027,
-    "season": "fall",
-    "count": 1
   }
 ]

@@ -1,13 +1,13 @@
 {
-  "total_anime": 3952,
-  "total_seasons": 87,
-  "year_range": "2006-2026",
-  "years_covered": 21,
-  "total_studios": 448,
+  "total_anime": 3777,
+  "total_seasons": 80,
+  "year_range": "2006-2025",
+  "years_covered": 20,
+  "total_studios": 425,
   "total_genres": 20,
-  "total_rated": 3716,
-  "rating_percentage": 94.0,
-  "average_rating": 6.94,
-  "avg_per_season": 47.0,
-  "last_updated": "2026-09-27"
+  "total_rated": 3567,
+  "rating_percentage": 94.4,
+  "average_rating": 6.93,
+  "avg_per_season": 47.2,
+  "last_updated": "2026-10-04"
 }
