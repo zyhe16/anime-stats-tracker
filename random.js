@@ -427,10 +427,10 @@ function displayRandomAnime(anime) {
         <div class="flex flex-row">
             <div class="w-1/3 relative">
                 <img
-                    src="${anime.image_url || 'https://via.placeholder.com/400x600?text=No+Image'}"
+                    src="${anime.image_url || 'https://placeholder.photo/400x600?text=No+Image'}"
                     alt="${anime.title}"
                     class="w-full h-full object-cover"
-                    onerror="this.src='https://via.placeholder.com/400x600?text=No+Image'">
+                    onerror="this.src='https://placeholder.photo/400x600?text=No+Image'">
                 <div class="absolute top-4 left-4 bg-gray-900 text-white px-3 py-2 rounded-lg text-sm font-medium">
                     ${seasonName} ${anime.year}
                 </div>
